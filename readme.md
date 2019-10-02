@@ -3,7 +3,7 @@
 	<br>
 	<br>
 	<br>
-    A  list of awesome things to read & learn - Ruben
+     Awesome lists to read & learn - Ruben
 </div>
 
 <br>
