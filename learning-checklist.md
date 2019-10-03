@@ -6,7 +6,7 @@
 
 ## Git
 
-- [Git](https://learngitbranching.js.org/) - Git Commits
+- [Git](https://learngitbranching.js.org/) - Git Commits en Branching
 
 ## Javascript
 
